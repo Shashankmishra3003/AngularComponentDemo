@@ -1,3 +1,3 @@
 # FirstAng
 
-This project is to get familier with componnets, models and how to understand the directory structure of Angular.
+This project is to get familier with componets, models and to understand the directory structure of Angular.
